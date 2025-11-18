@@ -1,7 +1,7 @@
 <div align="center" id="readmekit">
   <img src="./client/logos/readme-kit-logo-name-c.png" alt="Readme Kit Logo" width="55%" />
   <h3>Readme Kit</h3>
-  <p><i>Search, preview and copy beautiful <code>shields.io</code> badges for your README in seconds.</i></p>
+  <p><i>Search, preview and copy <code>shields.io</code> badges for your README in seconds.</i></p>
 
   <p>
     <a href="#features">Features</a> ·
