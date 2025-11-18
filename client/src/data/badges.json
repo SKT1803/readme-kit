@@ -1,0 +1,212 @@
+{
+  "badges": [
+    {
+      "name": "C++",
+      "searchTerms": ["c++", "cpp", "cplusplus"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/C++-00599C?style=social&logo=cplusplus\"/>"
+        }
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "searchTerms": ["tensorflow", "tf"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/TensorFlow-FF6F00?style=social&logo=tensorflow\"/>"
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "searchTerms": ["react", "reactjs"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "searchTerms": ["python", "py"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Python-3776AB?style=social&logo=python\"/>"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "searchTerms": ["javascript", "js"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Node.js",
+      "searchTerms": ["nodejs", "node"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Node.js-339933?style=social&logo=nodedotjs\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Docker",
+      "searchTerms": ["docker"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Git",
+      "searchTerms": ["git"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Git-F05032?style=social&logo=git\"/>"
+        }
+      ]
+    }
+  ]
+}
