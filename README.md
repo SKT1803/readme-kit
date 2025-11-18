@@ -1,5 +1,5 @@
 <div align="center" id="gridexp">
-<img src="./logos/readme-kit-logo-name-c.png" alt="Python Logo" width="50%">
+<img src="./client/logos/readme-kit-logo-name-c.png" alt="Python Logo" width="50%">
 </div>
 
 ---
