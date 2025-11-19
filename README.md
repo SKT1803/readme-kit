@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
-     <img src="https://img.shields.io/badge/Badges-453%2B-8A2BE2?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Badges-453%2B-8A2BE2?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
   </p>
 </div>
 
@@ -47,8 +47,8 @@ Instead of hunting for `shields.io` URLs and tweaking them by hand, you can:
 - 👀 **Live preview**  
   Every style is rendered in a preview grid so you can visually pick what fits your README.
 
-- 🎨 **Live color picker**
-  Live color picker for badges (change the badge color and copy the updated code)
+- 🎨 **Live color picker**  
+  Live color picker for badges (change the badge color and copy the updated code).
   
 - 📋 **One-click copy**  
   Click any style to copy the underlying HTML/Markdown snippet straight to your clipboard.
