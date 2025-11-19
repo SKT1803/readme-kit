@@ -24,7 +24,7 @@
 
 Readme Kit is a small web app that helps you build a beautiful README quickly.
 
-> 🌐 **Live right now – you can use it here:** https://your-live-url.com
+> 🌐 **Live right now – you can use it here:** [Readme Kit](https://readme-kit.vercel.app/)
 
 Instead of hunting for `shields.io` URLs and tweaking them by hand, you can:
 
