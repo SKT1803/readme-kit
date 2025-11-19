@@ -133,7 +133,7 @@ The full list lives in the app and in the JSON config files.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
 
-### Python badge – color variations
+### Badge color variations
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
