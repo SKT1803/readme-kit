@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState } from "react";
 import badgesData from "../data/badges.json";
 
 import SearchBar from "../components/SearchBar";
@@ -9,17 +9,22 @@ export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const [isFocused, setIsFocused] = useState(false);
 
-  const isActive = isFocused || searchQuery.trim().length > 0;
+  const totalBadges = badgesData.badges.length;
 
-  const filteredBadges = useMemo(() => {
-    if (!searchQuery.trim()) return [];
+  const normalizedQuery = searchQuery.trim().toLowerCase();
 
-    const q = searchQuery.toLowerCase();
+  const hasQuery = normalizedQuery.length > 0;
 
-    return badgesData.badges.filter((badge) =>
-      badge.searchTerms.some((t) => t.toLowerCase().startsWith(q))
-    );
-  }, [searchQuery]);
+  const filteredBadges = hasQuery
+    ? badgesData.badges.filter((badge) =>
+        badge.searchTerms.some((t) =>
+          t.toLowerCase().startsWith(normalizedQuery)
+        )
+      )
+    : [];
+
+  const hasResults = filteredBadges.length > 0;
+  const isActive = isFocused || hasQuery;
 
   return (
     <div
@@ -31,6 +36,7 @@ export default function Home() {
       "
     >
       <Topbar />
+
       <div
         className={`
           transition-all duration-500 
@@ -67,6 +73,22 @@ export default function Home() {
         >
           The fastest way to add beautiful shields.io badges to your README
         </p>
+
+        <div className="mt-3 flex justify-center">
+          <span
+            className="
+              inline-flex items-center gap-2
+              rounded-full border border-purple-500/40
+              bg-purple-500/10 px-3 py-1
+              text-xs font-medium text-purple-100
+              shadow-[0_0_20px_rgba(168,85,247,0.35)]
+              backdrop-blur-md
+            "
+          >
+            <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse" />
+            <span>{totalBadges}+ badges</span>
+          </span>
+        </div>
       </div>
 
       <div
@@ -83,21 +105,22 @@ export default function Home() {
       </div>
 
       <div className="w-full max-w-7xl mt-10 mb-20">
-        {searchQuery.trim().length > 0 &&
-          (filteredBadges.length === 0 ? (
-            <div className="text-center py-12 rounded-2xl border border-gray-800 bg-gray-900/30">
-              <div className="text-gray-400 text-lg mb-2">Not Found</div>
-              <div className="text-gray-600 text-sm">
-                No badges found for "{searchQuery}"
-              </div>
+        {hasQuery && !hasResults && (
+          <div className="text-center py-12 rounded-2xl border border-gray-800 bg-gray-900/30">
+            <div className="text-gray-400 text-lg mb-2">Not Found</div>
+            <div className="text-gray-600 text-sm">
+              No badges found for "{searchQuery}"
             </div>
-          ) : (
-            <div className="space-y-10">
-              {filteredBadges.map((badge) => (
-                <BadgeCard key={badge.name} badge={badge} />
-              ))}
-            </div>
-          ))}
+          </div>
+        )}
+
+        {hasQuery && hasResults && (
+          <div className="space-y-6">
+            {filteredBadges.map((badge) => (
+              <BadgeCard key={badge.name} badge={badge} />
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );

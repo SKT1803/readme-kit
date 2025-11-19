@@ -7847,37 +7847,7 @@
         }
       ]
     },
-    {
-      "name": "SonarQube",
-      "searchTerms": [
-        "sonarqube",
-        "sonar qube",
-        "static analysis",
-        "code quality"
-      ],
-      "styles": [
-        {
-          "name": "for-the-badge",
-          "code": "<img src=\"https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white\"/>"
-        },
-        {
-          "name": "flat",
-          "code": "<img src=\"https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white\"/>"
-        },
-        {
-          "name": "flat-square",
-          "code": "<img src=\"https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white\"/>"
-        },
-        {
-          "name": "plastic",
-          "code": "<img src=\"https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white\"/>"
-        },
-        {
-          "name": "social",
-          "code": "<img src=\"https://img.shields.io/badge/SonarQube-4E9BCD?style=social&logo=sonarqube\"/>"
-        }
-      ]
-    },
+
     {
       "name": "ESLint",
       "searchTerms": [
@@ -11584,32 +11554,6 @@
         {
           "name": "social",
           "code": "<img src=\"https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-2A5D84?style=social&logo=handshake\"/>"
-        }
-      ]
-    },
-    {
-      "name": "Slack",
-      "searchTerms": ["slack"],
-      "styles": [
-        {
-          "name": "for-the-badge",
-          "code": "<img src=\"https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white\"/>"
-        },
-        {
-          "name": "flat",
-          "code": "<img src=\"https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white\"/>"
-        },
-        {
-          "name": "flat-square",
-          "code": "<img src=\"https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white\"/>"
-        },
-        {
-          "name": "plastic",
-          "code": "<img src=\"https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white\"/>"
-        },
-        {
-          "name": "social",
-          "code": "<img src=\"https://img.shields.io/badge/Slack-4A154B?style=social&logo=slack\"/>"
         }
       ]
     },
