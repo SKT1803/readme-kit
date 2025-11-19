@@ -11870,6 +11870,116 @@
           "code": "<img src=\"https://img.shields.io/badge/ESP32-000000?style=social&logo=espressif\"/>"
         }
       ]
+    },
+
+    {
+      "name": "VS Code",
+      "searchTerms": ["vscode", "vs code", "visual studio code"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/VSCode-007ACC?style=social&logo=visual%20studio%20code\"/>"
+        }
+      ]
+    },
+
+    {
+      "name": "VS Code Marketplace Downloads",
+      "searchTerms": ["vscode downloads", "marketplace downloads", "vscode dl"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img alt=\"VS Code Marketplace Downloads\" src=\"https://img.shields.io/visual-studio-marketplace/d/__PUBLISHER_ID__.__EXTENSION_ID__?style=for-the-badge&color=064f8c&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3D__PUBLISHER_ID__.__EXTENSION_ID__\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img alt=\"VS Code Marketplace Downloads\" src=\"https://img.shields.io/visual-studio-marketplace/d/__PUBLISHER_ID__.__EXTENSION_ID__?style=flat&color=064f8c&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3D__PUBLISHER_ID__.__EXTENSION_ID__\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img alt=\"VS Code Marketplace Downloads\" src=\"https://img.shields.io/visual-studio-marketplace/d/__PUBLISHER_ID__.__EXTENSION_ID__?style=flat-square&color=064f8c&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3D__PUBLISHER_ID__.__EXTENSION_ID__\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img alt=\"VS Code Marketplace Downloads\" src=\"https://img.shields.io/visual-studio-marketplace/d/__PUBLISHER_ID__.__EXTENSION_ID__?style=plastic&color=064f8c&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3D__PUBLISHER_ID__.__EXTENSION_ID__\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img alt=\"VS Code Marketplace Downloads\" src=\"https://img.shields.io/visual-studio-marketplace/d/__PUBLISHER_ID__.__EXTENSION_ID__?style=social&color=064f8c&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3D__PUBLISHER_ID__.__EXTENSION_ID__\"/>"
+        }
+      ]
+    },
+    {
+      "name": "VS Code Marketplace Version",
+      "searchTerms": [
+        "vscode version",
+        "marketplace version",
+        "vscode extension version"
+      ],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img alt=\"VS Code Marketplace Version\" src=\"https://img.shields.io/visual-studio-marketplace/v/__PUBLISHER_ID__.__EXTENSION_ID__?style=for-the-badge&color=be2128&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%2F__PUBLISHER_ID__.__EXTENSION_ID__%2Fchangelog\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img alt=\"VS Code Marketplace Version\" src=\"https://img.shields.io/visual-studio-marketplace/v/__PUBLISHER_ID__.__EXTENSION_ID__?style=flat&color=be2128&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%2F__PUBLISHER_ID__.__EXTENSION_ID__%2Fchangelog\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img alt=\"VS Code Marketplace Version\" src=\"https://img.shields.io/visual-studio-marketplace/v/__PUBLISHER_ID__.__EXTENSION_ID__?style=flat-square&color=be2128&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%2F__PUBLISHER_ID__.__EXTENSION_ID__%2Fchangelog\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img alt=\"VS Code Marketplace Version\" src=\"https://img.shields.io/visual-studio-marketplace/v/__PUBLISHER_ID__.__EXTENSION_ID__?style=plastic&color=be2128&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%2F__PUBLISHER_ID__.__EXTENSION_ID__%2Fchangelog\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img alt=\"VS Code Marketplace Version\" src=\"https://img.shields.io/visual-studio-marketplace/v/__PUBLISHER_ID__.__EXTENSION_ID__?style=social&color=be2128&cacheSeconds=3600&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%2F__PUBLISHER_ID__.__EXTENSION_ID__%2Fchangelog\"/>"
+        }
+      ]
+    },
+    {
+      "name": "GitHub Closed Issues",
+      "searchTerms": ["closed issues", "github issues closed", "issues"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=for-the-badge&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=flat&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=flat-square&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=plastic&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=social&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
+        }
+      ]
     }
   ]
 }
