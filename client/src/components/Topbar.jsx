@@ -30,7 +30,7 @@ export default function Topbar() {
         />
       </a>
       <a
-        href="https://github.com/your/repo"
+        href="https://github.com/SKT1803/readme-kit"
         target="_blank"
         rel="noopener noreferrer"
         className="
