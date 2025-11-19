@@ -47,6 +47,9 @@ Instead of hunting for `shields.io` URLs and tweaking them by hand, you can:
 - 👀 **Live preview**  
   Every style is rendered in a preview grid so you can visually pick what fits your README.
 
+- 🎨 **Live color picker**
+  Live color picker for badges (change the badge color and copy the updated code)
+  
 - 📋 **One-click copy**  
   Click any style to copy the underlying HTML/Markdown snippet straight to your clipboard.
 
@@ -129,6 +132,18 @@ The full list lives in the app and in the JSON config files.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
+
+### Python badge – color variations
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-F97316?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-22C55E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-E11D48?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+
 
 ### Frontend Frameworks (examples)
 
