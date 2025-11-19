@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
-     <img src="https://img.shields.io/badge/Badges-449%2B-8A2BE2?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+     <img src="https://img.shields.io/badge/Badges-453%2B-8A2BE2?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
   </p>
 </div>
 
