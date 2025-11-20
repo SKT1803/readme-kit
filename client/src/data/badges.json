@@ -12006,6 +12006,89 @@
           "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=social&logo=asm\"/>"
         }
       ]
+    },
+    {
+      "name": "Oracle Linux",
+      "searchTerms": ["oracle linux", "oracle-linux", "oraclelinux"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Oracle%20Linux-F80000?style=for-the-badge&logo=oracle&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Oracle%20Linux-F80000?style=flat&logo=oracle&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Oracle%20Linux-F80000?style=flat-square&logo=oracle&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Oracle%20Linux-F80000?style=plastic&logo=oracle&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Oracle%20Linux-F80000?style=social&logo=oracle\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Gmail",
+      "searchTerms": ["gmail", "google mail", "email"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail\"/>"
+        }
+      ]
+    },
+    {
+      "name": "Outlook",
+      "searchTerms": [
+        "outlook",
+        "microsoft outlook",
+        "ms outlook",
+        "office 365"
+      ],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Outlook-0078D4?style=social&logo=microsoftoutlook\"/>"
+        }
+      ]
     }
   ]
 }
