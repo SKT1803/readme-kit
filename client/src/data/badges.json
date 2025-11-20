@@ -11980,6 +11980,32 @@
           "code": "<img alt=\"Closed Issues\" src=\"https://img.shields.io/github/issues-closed/__GITHUB_OWNER__/__REPO_NAME__?style=social&color=249847&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2F__GITHUB_OWNER__%2F__REPO_NAME__%2Fissues\"/>"
         }
       ]
+    },
+    {
+      "name": "Assembly",
+      "searchTerms": ["assembly", "asm", "x86", "x64"],
+      "styles": [
+        {
+          "name": "for-the-badge",
+          "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=asm&logoColor=white\"/>"
+        },
+        {
+          "name": "flat",
+          "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=flat&logo=asm&logoColor=white\"/>"
+        },
+        {
+          "name": "flat-square",
+          "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=asm&logoColor=white\"/>"
+        },
+        {
+          "name": "plastic",
+          "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=plastic&logo=asm&logoColor=white\"/>"
+        },
+        {
+          "name": "social",
+          "code": "<img src=\"https://img.shields.io/badge/Assembly-000000?style=social&logo=asm\"/>"
+        }
+      ]
     }
   ]
 }
